@@ -23,3 +23,6 @@
 📊 **This week I spent my time working on**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+
+<!-- Inspired by https://github.com/gruselhaus/gruselhaus -->
