@@ -14,7 +14,8 @@
 📊 **This week I spent my time working on**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Gettext Catalog   12 mins         ███████████████████░░░░░░   76.61 % 
+TypeScript        3 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.13 % 
 ```
 <!--END_SECTION:waka-->
 
