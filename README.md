@@ -15,8 +15,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   18 hrs 25 mins  ████████████████████▒░░░░   81.70 %
-Other        1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+TypeScript   14 hrs 59 mins  ████████████████████░░░░░   79.72 %
+Other        1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
 ```
 
 <!--END_SECTION:waka-->
