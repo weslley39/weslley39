@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript        2 hrs 10 mins   ████████▓░░░░░░░░░░░░░░░░   34.65 %
-TypeScript        1 hr 50 mins    ███████▒░░░░░░░░░░░░░░░░░   29.46 %
-JSON              1 hr 9 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
-Other             51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
-Gettext Catalog   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+JavaScript        2 hrs 10 mins   █████████░░░░░░░░░░░░░░░░   35.60 %
+TypeScript        1 hr 40 mins    ███████░░░░░░░░░░░░░░░░░░   27.51 %
+JSON              1 hr 9 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.89 %
+Other             51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
+Gettext Catalog   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
